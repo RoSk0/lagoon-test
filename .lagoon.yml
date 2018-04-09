@@ -25,3 +25,4 @@ environments:
     #     command: drush cron
     #     service: cli
     types:
+      cli:

@@ -24,3 +24,4 @@ environments:
     #     schedule: "H * * * *" # this will run the cron once per Hour
     #     command: drush cron
     #     service: cli
+    types:
